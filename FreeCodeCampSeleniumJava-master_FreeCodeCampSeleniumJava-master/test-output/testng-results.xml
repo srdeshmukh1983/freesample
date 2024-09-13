@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-13T18:27:38 CDT" name="Default suite" finished-at="2024-09-13T18:27:47 CDT" duration-ms="8410">
+    <groups>
+    </groups>
+    <test started-at="2024-09-13T18:27:38 CDT" name="Default test" finished-at="2024-09-13T18:27:47 CDT" duration-ms="8410">
+      <class name="part3_4.com.demoqa.tests.part3.forms.CheckboxTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:part3_4.com.demoqa.tests.part3.forms.CheckboxTest@3b69e7d1]" started-at="2024-09-13T18:27:38 CDT" name="setUp" finished-at="2024-09-13T18:27:40 CDT" duration-ms="1760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="loadApplication()[pri:0, instance:part3_4.com.demoqa.tests.part3.forms.CheckboxTest@3b69e7d1]" started-at="2024-09-13T18:27:40 CDT" name="loadApplication" finished-at="2024-09-13T18:27:43 CDT" duration-ms="2750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadApplication -->
+        <test-method signature="testCheckbox()[pri:0, instance:part3_4.com.demoqa.tests.part3.forms.CheckboxTest@3b69e7d1]" started-at="2024-09-13T18:27:43 CDT" name="testCheckbox" finished-at="2024-09-13T18:27:44 CDT" duration-ms="696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckbox -->
+        <test-method is-config="true" signature="takeFailedResultScreenshot(org.testng.ITestResult)[pri:0, instance:part3_4.com.demoqa.tests.part3.forms.CheckboxTest@3b69e7d1]" started-at="2024-09-13T18:27:44 CDT" name="takeFailedResultScreenshot" finished-at="2024-09-13T18:27:44 CDT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCheckbox status=SUCCESS method=CheckboxTest.testCheckbox()[pri:0, instance:part3_4.com.demoqa.tests.part3.forms.CheckboxTest@3b69e7d1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeFailedResultScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:part3_4.com.demoqa.tests.part3.forms.CheckboxTest@3b69e7d1]" started-at="2024-09-13T18:27:44 CDT" name="tearDown" finished-at="2024-09-13T18:27:47 CDT" duration-ms="3168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- part3_4.com.demoqa.tests.part3.forms.CheckboxTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
